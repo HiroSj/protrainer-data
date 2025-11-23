@@ -1,17 +1,198 @@
 [
-  { "id": 1, "owner": "tomoki", "english": "This is my desk.", "japanese": "これは私の机です。" },
-  { "id": 2, "owner": "tomoki", "english": "I like English class.", "japanese": "英語の授業が好きです。" },
-  { "id": 3, "owner": "tomoki", "english": "What time is lunch?", "japanese": "お昼は何時ですか？" },
+  {
+    "id": 1,
+    "owner": "u1",
+    "english": "This is my brother, Fumiya.",
+    "japanese": "こちらは私の兄妹、ふみやです。"
+  },
+  {
+    "id": 2,
+    "owner": "u1",
+    "english": "He’s twenty-four years old.",
+    "japanese": "彼は24歳です。"
+  },
+  {
+    "id": 3,
+    "owner": "u1",
+    "english": "He lives in Honolulu, Hawaii.",
+    "japanese": "彼はハワイのホノルルに住んでいます。"
+  },
+  {
+    "id": 4,
+    "owner": "u1",
+    "english": "He works as a tour guide.",
+    "japanese": "彼はツアーガイドとして働いています。"
+  },
+  {
+    "id": 5,
+    "owner": "u1",
+    "english": "He really likes Hawaii.",
+    "japanese": "彼はハワイが本当に好きです。"
+  },
+  {
+    "id": 6,
+    "owner": "u1",
+    "english": "He can speak English very well.",
+    "japanese": "彼はとても上手に英語を話せます。"
+  },
+  {
+    "id": 7,
+    "owner": "u1",
+    "english": "Fumiya studies a lot about Hawaii.",
+    "japanese": "ふみやはハワイに関してたくさん勉強しています。"
+  },
+  {
+    "id": 8,
+    "owner": "u1",
+    "english": "He writes a blog about local food, nature, and beautiful spots.",
+    "japanese": "彼は地元の食べ物、自然、そして美しい場所に関するブログを書きます。"
+  },
+  {
+    "id": 9,
+    "owner": "u1",
+    "english": "I enjoy reading his blog very much.",
+    "japanese": "私は彼のブログを読むことを大いに楽しみます。"
+  },
+  {
+    "id": 10,
+    "owner": "u1",
+    "english": "Do you have any questions?",
+    "japanese": "あなたたちは何か質問がありますか。"
+  },
+  {
+    "id": 11,
+    "owner": "u1",
+    "english": "Does Fumiya live near a beach?",
+    "japanese": "ふみやはビーチの近くに住んでいますか。"
+  },
+  {
+    "id": 12,
+    "owner": "u1",
+    "english": "Yes, he does.",
+    "japanese": "はい、（彼は）住んでいます。"
+  },
+  {
+    "id": 13,
+    "owner": "u1",
+    "english": "Hawaii has many beautiful beaches.",
+    "japanese": "ハワイには多くの美しいビーチがあります。"
+  },
+  {
+    "id": 14,
+    "owner": "u1",
+    "english": "Not every day.",
+    "japanese": "毎日ではありません。"
+  },
+  {
+    "id": 15,
+    "owner": "u1",
+    "english": "He usually goes to the beach on weekends.",
+    "japanese": "彼はたいてい週末にビーチへ行きます。"
+  },
+  {
+    "id": 16,
+    "owner": "u1",
+    "english": "What does he do there?",
+    "japanese": "彼はそこで何をしますか。"
+  },
+  {
+    "id": 17,
+    "owner": "u1",
+    "english": "He swims and surfs with his friends.",
+    "japanese": "彼は彼の友達と泳いだりサーフィンをしたりします。"
+  },
+  {
+    "id": 18,
+    "owner": "u1",
+    "english": "Sometimes he swims with dolphins.",
+    "japanese": "ときどき彼はイルカと泳ぎます。"
+  },
+  {
+    "id": 19,
+    "owner": "u1",
+    "english": "He really enjoys life in Hawaii.",
+    "japanese": "彼はハワイでの生活を本当に楽しんでいます。"
+  },
+  {
+    "id": 20,
+    "owner": "u1",
+    "english": "Wow, that’s nice!",
+    "japanese": "わあ、それはいいですね。"
+  },
 
-  { "id": 4, "owner": "naoki", "english": "This is a pencil.", "japanese": "これはえんぴつです。" },
-  { "id": 5, "owner": "naoki", "english": "I have a dog.", "japanese": "私は犬を飼っています。" },
-  { "id": 6, "owner": "naoki", "english": "What color do you like?", "japanese": "何色が好きですか？" },
+  {
+    "id": 101,
+    "owner": "u2",
+    "english": "This is my pencil.",
+    "japanese": "これは私のえんぴつです。"
+  },
+  {
+    "id": 102,
+    "owner": "u2",
+    "english": "I like soccer very much.",
+    "japanese": "私はサッカーが大好きです。"
+  },
+  {
+    "id": 103,
+    "owner": "u2",
+    "english": "Do you have a dog?",
+    "japanese": "あなたは犬を飼っていますか？"
+  },
 
-  { "id": 7, "owner": "mariko", "english": "Where can I buy a ticket?", "japanese": "チケットはどこで買えますか？" },
-  { "id": 8, "owner": "mariko", "english": "Do you have a vegetarian menu?", "japanese": "ベジタリアンメニューはありますか？" },
-  { "id": 9, "owner": "mariko", "english": "Can I check in early?", "japanese": "アーリーチェックインできますか？" },
+  {
+    "id": 201,
+    "owner": "u3",
+    "english": "Where is the ticket counter?",
+    "japanese": "チケット売り場はどこですか？"
+  },
+  {
+    "id": 202,
+    "owner": "u3",
+    "english": "May I have a cup of coffee?",
+    "japanese": "コーヒーを一杯いただけますか？"
+  },
+  {
+    "id": 203,
+    "owner": "u3",
+    "english": "What time does the museum open?",
+    "japanese": "博物館は何時に開きますか？"
+  },
 
-  { "id": 10, "owner": "hirotsugu", "english": "Where can I buy a ticket?", "japanese": "チケットはどこで買えますか？" },
-  { "id": 11, "owner": "hirotsugu", "english": "Do you have a vegetarian menu?", "japanese": "ベジタリアンメニューはありますか？" },
-  { "id": 12, "owner": "hirotsugu", "english": "Can I check in early?", "japanese": "アーリーチェックインできますか？" }
+  {
+    "id": 301,
+    "owner": "u4",
+    "english": "Where can I get a taxi?",
+    "japanese": "タクシーはどこで乗れますか？"
+  },
+  {
+    "id": 302,
+    "owner": "u4",
+    "english": "How much is this?",
+    "japanese": "これはいくらですか？"
+  },
+  {
+    "id": 303,
+    "owner": "u4",
+    "english": "Could you take our picture?",
+    "japanese": "写真を撮ってもらえますか？"
+  },
+
+  {
+    "id": 401,
+    "owner": "all",
+    "english": "Thank you very much.",
+    "japanese": "どうもありがとうございます。"
+  },
+  {
+    "id": 402,
+    "owner": "all",
+    "english": "Good morning, everyone.",
+    "japanese": "みなさん、おはようございます。"
+  },
+  {
+    "id": 403,
+    "owner": "all",
+    "english": "See you tomorrow!",
+    "japanese": "また明日会いましょう！"
+  }
 ]
