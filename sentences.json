@@ -1,26 +1,17 @@
 [
-  {
-    "id": 1,
-    "owner": "all",
-    "english": "Where is the train station?",
-    "japanese": "駅はどこですか？"
-  },
-  {
-    "id": 2,
-    "owner": "all",
-    "english": "How was your day?",
-    "japanese": "今日はどうだった？"
-  },
-  {
-    "id": 3,
-    "owner": "all",
-    "english": "Could I have some water, please?",
-    "japanese": "お水をもらえますか？"
-  },
-  {
-    "id": 4,
-    "owner": "all",
-    "english": "What time does the store open?",
-    "japanese": "お店は何時に開きますか？"
-  }
+  { "id": 1, "owner": "tomoki", "english": "This is my desk.", "japanese": "これは私の机です。" },
+  { "id": 2, "owner": "tomoki", "english": "I like English class.", "japanese": "英語の授業が好きです。" },
+  { "id": 3, "owner": "tomoki", "english": "What time is lunch?", "japanese": "お昼は何時ですか？" },
+
+  { "id": 4, "owner": "naoki", "english": "This is a pencil.", "japanese": "これはえんぴつです。" },
+  { "id": 5, "owner": "naoki", "english": "I have a dog.", "japanese": "私は犬を飼っています。" },
+  { "id": 6, "owner": "naoki", "english": "What color do you like?", "japanese": "何色が好きですか？" },
+
+  { "id": 7, "owner": "mariko", "english": "Where can I buy a ticket?", "japanese": "チケットはどこで買えますか？" },
+  { "id": 8, "owner": "mariko", "english": "Do you have a vegetarian menu?", "japanese": "ベジタリアンメニューはありますか？" },
+  { "id": 9, "owner": "mariko", "english": "Can I check in early?", "japanese": "アーリーチェックインできますか？" },
+
+  { "id": 10, "owner": "hirotsugu", "english": "Where can I buy a ticket?", "japanese": "チケットはどこで買えますか？" },
+  { "id": 11, "owner": "hirotsugu", "english": "Do you have a vegetarian menu?", "japanese": "ベジタリアンメニューはありますか？" },
+  { "id": 12, "owner": "hirotsugu", "english": "Can I check in early?", "japanese": "アーリーチェックインできますか？" }
 ]
