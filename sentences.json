@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "owner": "all",
+    "english": "Where is the train station?",
+    "japanese": "駅はどこですか？"
+  },
+  {
+    "id": 2,
+    "owner": "all",
+    "english": "How was your day?",
+    "japanese": "今日はどうだった？"
+  },
+  {
+    "id": 3,
+    "owner": "all",
+    "english": "Could I have some water, please?",
+    "japanese": "お水をもらえますか？"
+  },
+  {
+    "id": 4,
+    "owner": "all",
+    "english": "What time does the store open?",
+    "japanese": "お店は何時に開きますか？"
+  }
+]
