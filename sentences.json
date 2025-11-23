@@ -121,6 +121,253 @@
   },
 
   {
+    "id": 21,
+    "owner": "u1",
+    "english": "Oh, that’s Tom.",
+    "japanese": "ああ、あれはトムです。"
+  },
+  {
+    "id": 22,
+    "owner": "u1",
+    "english": "Do you know him?",
+    "japanese": "あなたは彼を知っていますか。"
+  },
+  {
+    "id": 23,
+    "owner": "u1",
+    "english": "No, I don’t.",
+    "japanese": "いいえ、（私は）知りません。"
+  },
+  {
+    "id": 24,
+    "owner": "u1",
+    "english": "Is he your friend?",
+    "japanese": "彼はあなたの友だちですか。"
+  },
+  {
+    "id": 25,
+    "owner": "u1",
+    "english": "Yes. He’s in Class 2-2.",
+    "japanese": "はい。　彼は2ー2組の一員です。"
+  },
+  {
+    "id": 26,
+    "owner": "u1",
+    "english": "Let’s say hi to him.",
+    "japanese": "彼にあいさつしましょう。"
+  },
+  {
+    "id": 27,
+    "owner": "u1",
+    "english": "Hello, Tom.",
+    "japanese": "こんにちは、トム。"
+  },
+  {
+    "id": 28,
+    "owner": "u1",
+    "english": "Hi. How’s everything?",
+    "japanese": "こんにちは。　調子はどうですか。"
+  },
+  {
+    "id": 29,
+    "owner": "u1",
+    "english": "Everything is fine.",
+    "japanese": "全部大丈夫です。"
+  },
+  {
+    "id": 30,
+    "owner": "u1",
+    "english": "Oh, what’s that?",
+    "japanese": "ああ、あれは何ですか。"
+  },
+  {
+    "id": 31,
+    "owner": "u1",
+    "english": "This is a poster for a rakugo show.",
+    "japanese": "これは落語ショーのポスターです。"
+  },
+  {
+    "id": 32,
+    "owner": "u1",
+    "english": "Oh, that’s Diane Kichijitsu.",
+    "japanese": "ああ、それはダイアン吉日です。"
+  },
+  {
+    "id": 33,
+    "owner": "u1",
+    "english": "I like her.",
+    "japanese": "私は彼女が好きです。"
+  },
+  {
+    "id": 34,
+    "owner": "u1",
+    "english": "Who is she?",
+    "japanese": "彼女はだれですか。"
+  },
+  {
+    "id": 35,
+    "owner": "u1",
+    "english": "She’s a rakugo performer from the U.K.",
+    "japanese": "彼女はイギリス出身の落語の演者です。"
+  },
+  {
+    "id": 36,
+    "owner": "u1",
+    "english": "I want to see her.",
+    "japanese": "私は彼女に会いたいです。"
+  },
+  {
+    "id": 37,
+    "owner": "u1",
+    "english": "Why don’t we go together?",
+    "japanese": "一緒に行きませんか。"
+  },
+  {
+    "id": 38,
+    "owner": "u1",
+    "english": "The show starts in five minutes.",
+    "japanese": "ショーは5分後に始まります。"
+  },
+  {
+    "id": 39,
+    "owner": "u1",
+    "english": "I can’t wait!",
+    "japanese": "私は待つことができません！"
+  },
+  {
+    "id": 40,
+    "owner": "u1",
+    "english": "Oh, whose ticket is this?",
+    "japanese": "あら、これはだれのチケットですか。"
+  },
+  {
+    "id": 41,
+    "owner": "u1",
+    "english": "Is it yours, Eddy?",
+    "japanese": "それはあなたのものですか、エディ。"
+  },
+  {
+    "id": 42,
+    "owner": "u1",
+    "english": "No. I have mine.",
+    "japanese": "いいえ。　私は自分のものを持っています。"
+  },
+  {
+    "id": 43,
+    "owner": "u1",
+    "english": "Maybe it’s Riko’s.",
+    "japanese": "もしかするとそれは、りこのものです。"
+  },
+  {
+    "id": 44,
+    "owner": "u1",
+    "english": "Oops! Yes, it’s mine.",
+    "japanese": "おっと！　はい、それは私のものです。"
+  },
+  {
+    "id": 45,
+    "owner": "u1",
+    "english": "Thanks.",
+    "japanese": "ありがとう。"
+  },
+  {
+    "id": 46,
+    "owner": "u1",
+    "english": "Be careful with that.",
+    "japanese": "それ（チケット）については気を付けてください。"
+  },
+  {
+    "id": 47,
+    "owner": "u1",
+    "english": "Wow. It’s very crowded here.",
+    "japanese": "わあ。　ここはとても混んでいます。"
+  },
+  {
+    "id": 48,
+    "owner": "u1",
+    "english": "Yes. Rakugo has a long history, and it’s still popular today.",
+    "japanese": "はい。　落語は長い歴史があって、それは現在、まだ人気があります。"
+  },
+  {
+    "id": 49,
+    "owner": "u1",
+    "english": "How old is rakugo?",
+    "japanese": "落語はどれくらい歴史がありますか。"
+  },
+  {
+    "id": 50,
+    "owner": "u1",
+    "english": "Well, it’s over 400 years old.",
+    "japanese": "ええと、それは400年を超える歴史があります。"
+  },
+  {
+    "id": 51,
+    "owner": "u1",
+    "english": "Over 400?",
+    "japanese": "400年を超える？"
+  },
+  {
+    "id": 52,
+    "owner": "u1",
+    "english": "Wow!",
+    "japanese": "わあ！"
+  },
+  {
+    "id": 53,
+    "owner": "u1",
+    "english": "What is rakugo?",
+    "japanese": "落語とは何ですか。"
+  },
+  {
+    "id": 54,
+    "owner": "u1",
+    "english": "Rakugo is Japanese comic storytelling.",
+    "japanese": "落語は日本の滑稽な(喜劇的な)物語を話す話術です。"
+  },
+  {
+    "id": 55,
+    "owner": "u1",
+    "english": "A performer on a cushion plays different roles.",
+    "japanese": "座布団の上の演者は異なる(さまざまな)役を演じます。"
+  },
+  {
+    "id": 56,
+    "owner": "u1",
+    "english": "The performer uses only two props, a fan and a hand towel.",
+    "japanese": "その演者はたった２つの小道具だけ、つまり扇子と手ぬぐいだけを使います。"
+  },
+  {
+    "id": 57,
+    "owner": "u1",
+    "english": "Which do you speak in your shows, English or Japanese?",
+    "japanese": "あなたのショーであなたはどちらを話しますか、英語ですか日本語ですか。"
+  },
+  {
+    "id": 58,
+    "owner": "u1",
+    "english": "I usually speak English, but I sometimes speak Japanese.",
+    "japanese": "私はたいてい英語を話します、でも時々日本語を話します。"
+  },
+  {
+    "id": 59,
+    "owner": "u1",
+    "english": "Which do you usually wear, kimonos or casual clothes?",
+    "japanese": "あなたはたいていどちらを着ていますか、着物ですかカジュアルな服ですか。"
+  },
+  {
+    "id": 60,
+    "owner": "u1",
+    "english": "I usually wear casual clothes, but I love kimonos.",
+    "japanese": "私はたいていカジュアルな服を着ています、でも私は着物が大好きです。"
+  },
+  {
+    "id": 61,
+    "owner": "u1",
+    "english": "I have a large kimono collection.",
+    "japanese": "私は大きな着物コレクションを持っています。"
+  },
+
+  {
     "id": 101,
     "owner": "u2",
     "english": "This is my pencil.",
