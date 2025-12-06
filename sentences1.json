@@ -1,0 +1,583 @@
+[
+  {
+    "id": 1,
+    "owner": "u1",
+    "english": "This is my brother, Fumiya.",
+    "japanese": "こちらは私の兄妹、ふみやです。"
+  },
+  {
+    "id": 2,
+    "owner": "u1",
+    "english": "He's twenty-four years old.",
+    "japanese": "彼は24歳です。"
+  },
+  {
+    "id": 3,
+    "owner": "u1",
+    "english": "He lives in Honolulu, Hawaii.",
+    "japanese": "彼はハワイのホノルルに住んでいます。"
+  },
+  {
+    "id": 4,
+    "owner": "u1",
+    "english": "He works as a tour guide.",
+    "japanese": "彼はツアーガイドとして働いています。"
+  },
+  {
+    "id": 5,
+    "owner": "u1",
+    "english": "He really likes Hawaii.",
+    "japanese": "彼はハワイが本当に好きです。"
+  },
+  {
+    "id": 6,
+    "owner": "u1",
+    "english": "He can speak English very well.",
+    "japanese": "彼はとても上手に英語を話せます。"
+  },
+  {
+    "id": 7,
+    "owner": "u1",
+    "english": "Fumiya studies a lot about Hawaii.",
+    "japanese": "ふみやはハワイに関してたくさん勉強しています。"
+  },
+  {
+    "id": 8,
+    "owner": "u1",
+    "english": "He writes a blog about local food, nature, and beautiful spots.",
+    "japanese": "彼は地元の食べ物、自然、美しい場所に関するブログを書きます。"
+  },
+  {
+    "id": 9,
+    "owner": "u1",
+    "english": "I enjoy reading his blog very much.",
+    "japanese": "私は彼のブログを読むことを大いに楽しみます。"
+  },
+  {
+    "id": 10,
+    "owner": "u1",
+    "english": "Do you have any questions?",
+    "japanese": "あなたたちは何か質問がありますか。"
+  },
+  {
+    "id": 11,
+    "owner": "u1",
+    "english": "Yes. Does Fumiya live near a beach?",
+    "japanese": "はい。ふみやはビーチの近くに住んでいますか。"
+  },
+  {
+    "id": 12,
+    "owner": "u1",
+    "english": "Yes, he does.",
+    "japanese": "はい、彼は住んでいます。"
+  },
+  {
+    "id": 13,
+    "owner": "u1",
+    "english": "Hawaii has many beautiful beaches.",
+    "japanese": "ハワイには多くの美しいビーチがあります。"
+  },
+  {
+    "id": 14,
+    "owner": "u1",
+    "english": "Does he go to the beach every day?",
+    "japanese": "彼は毎日ビーチへ行きますか。"
+  },
+  {
+    "id": 15,
+    "owner": "u1",
+    "english": "No, he doesn't.",
+    "japanese": "いいえ、彼は行きません。"
+  },
+  {
+    "id": 16,
+    "owner": "u1",
+    "english": "Not every day.",
+    "japanese": "毎日ではありません。"
+  },
+  {
+    "id": 17,
+    "owner": "u1",
+    "english": "He usually goes to the beach on weekends.",
+    "japanese": "彼はたいてい週末にビーチへ行きます。"
+  },
+  {
+    "id": 18,
+    "owner": "u1",
+    "english": "What does he do there?",
+    "japanese": "彼はそこで何をしますか。"
+  },
+  {
+    "id": 19,
+    "owner": "u1",
+    "english": "He swims and surfs with his friends.",
+    "japanese": "彼は友達と泳いだりサーフィンをしたりします。"
+  },
+  {
+    "id": 20,
+    "owner": "u1",
+    "english": "Sometimes he swims with dolphins.",
+    "japanese": "ときどき彼はイルカと泳ぎます。"
+  },
+  {
+    "id": 21,
+    "owner": "u1",
+    "english": "He really enjoys life in Hawaii.",
+    "japanese": "彼はハワイでの生活を本当に楽しんでいます。"
+  },
+  {
+    "id": 22,
+    "owner": "u1",
+    "english": "Wow, that's nice!",
+    "japanese": "わあ、それはいいですね。"
+  },
+  {
+    "id": 23,
+    "owner": "u1",
+    "english": "Cafe Maria is my favorite restaurant in Honolulu.",
+    "japanese": "カフェ・マリアはホノルルでの私の一番好きなレストランです。"
+  },
+  {
+    "id": 24,
+    "owner": "u1",
+    "english": "The restaurant does not have a website, but it is very popular.",
+    "japanese": "そのレストランはウェブサイトを持っていませんが、とても人気があります。"
+  },
+  {
+    "id": 25,
+    "owner": "u1",
+    "english": "Maria is the owner of the restaurant.",
+    "japanese": "マリアはそのレストランのオーナーです。"
+  },
+  {
+    "id": 26,
+    "owner": "u1",
+    "english": "She does not speak Japanese, but she knows a lot about Japan.",
+    "japanese": "彼女は日本語を話しませんが、日本についてよく知っています。"
+  },
+  {
+    "id": 27,
+    "owner": "u1",
+    "english": "She is kind and friendly.",
+    "japanese": "彼女は親切で人懐こいです。"
+  },
+  {
+    "id": 28,
+    "owner": "u1",
+    "english": "My favorite dish there is loco moco.",
+    "japanese": "そこでの私の一番好きな料理はロコモコです。"
+  },
+  {
+    "id": 29,
+    "owner": "u1",
+    "english": "It is a beef patty and a fried egg on top of rice.",
+    "japanese": "それはご飯の上に牛肉のパテと目玉焼きがのっています。"
+  },
+  {
+    "id": 30,
+    "owner": "u1",
+    "english": "It is wonderful.",
+    "japanese": "それは素晴らしいです。"
+  },
+  {
+    "id": 31,
+    "owner": "u1",
+    "english": "Oh, that's Tom.",
+    "japanese": "ああ、あれはトムです。"
+  },
+  {
+    "id": 32,
+    "owner": "u1",
+    "english": "Do you know him?",
+    "japanese": "あなたは彼を知っていますか。"
+  },
+  {
+    "id": 33,
+    "owner": "u1",
+    "english": "No, I don't.",
+    "japanese": "いいえ、知りません。"
+  },
+  {
+    "id": 34,
+    "owner": "u1",
+    "english": "Is he your friend?",
+    "japanese": "彼はあなたの友だちですか。"
+  },
+  {
+    "id": 35,
+    "owner": "u1",
+    "english": "Yes. He's in Class 2-2.",
+    "japanese": "はい。彼は2ー2組の一員です。"
+  },
+  {
+    "id": 36,
+    "owner": "u1",
+    "english": "Let's say hi to him.",
+    "japanese": "彼にあいさつしましょう。"
+  },
+  {
+    "id": 37,
+    "owner": "u1",
+    "english": "Hello, Tom.",
+    "japanese": "こんにちは、トム。"
+  },
+  {
+    "id": 38,
+    "owner": "u1",
+    "english": "Hi. How's everything?",
+    "japanese": "こんにちは。調子はどうですか。"
+  },
+  {
+    "id": 39,
+    "owner": "u1",
+    "english": "Everything is fine.",
+    "japanese": "全部大丈夫です。"
+  },
+  {
+    "id": 40,
+    "owner": "u1",
+    "english": "This is a poster for a rakugo show.",
+    "japanese": "これは落語ショーのポスターです。"
+  },
+  {
+    "id": 41,
+    "owner": "u1",
+    "english": "Oh, that's Diane Kichijitsu.",
+    "japanese": "ああ、それはダイアン吉日です。"
+  },
+  {
+    "id": 42,
+    "owner": "u1",
+    "english": "I like her.",
+    "japanese": "私は彼女が好きです。"
+  },
+  {
+    "id": 43,
+    "owner": "u1",
+    "english": "Who is she?",
+    "japanese": "彼女はだれですか。"
+  },
+  {
+    "id": 44,
+    "owner": "u1",
+    "english": "She's a rakugo performer from the U.K.",
+    "japanese": "彼女はイギリス出身の落語の演者です。"
+  },
+  {
+    "id": 45,
+    "owner": "u1",
+    "english": "I want to see her.",
+    "japanese": "私は彼女に会いたいです。"
+  },
+  {
+    "id": 46,
+    "owner": "u1",
+    "english": "Why don't we go together?",
+    "japanese": "一緒に行きませんか。"
+  },
+  {
+    "id": 47,
+    "owner": "u1",
+    "english": "The show starts in five minutes.",
+    "japanese": "ショーは5分後に始まります。"
+  },
+  {
+    "id": 48,
+    "owner": "u1",
+    "english": "I can't wait!",
+    "japanese": "私は待つことができません！（楽しみ！）"
+  },
+  {
+    "id": 49,
+    "owner": "u1",
+    "english": "Oh, whose ticket is this?",
+    "japanese": "あら、これはだれのチケットですか。"
+  },
+  {
+    "id": 50,
+    "owner": "u1",
+    "english": "Is it yours, Eddy?",
+    "japanese": "それはあなたのものですか、エディ。"
+  },
+  {
+    "id": 51,
+    "owner": "u1",
+    "english": "No. I have mine.",
+    "japanese": "いいえ。私は自分のものを持っています。"
+  },
+  {
+    "id": 52,
+    "owner": "u1",
+    "english": "Maybe it's Riko's.",
+    "japanese": "もしかするとそれは、りこのものです。"
+  },
+  {
+    "id": 53,
+    "owner": "u1",
+    "english": "Oops! Yes, it's mine.",
+    "japanese": "おっと！はい、それは私のものです。"
+  },
+  {
+    "id": 54,
+    "owner": "u1",
+    "english": "Thanks.",
+    "japanese": "ありがとう。"
+  },
+  {
+    "id": 55,
+    "owner": "u1",
+    "english": "Be careful with that.",
+    "japanese": "それについては気を付けてください。"
+  },
+  {
+    "id": 56,
+    "owner": "u1",
+    "english": "Wow. It's very crowded here.",
+    "japanese": "わあ。ここはとても混んでいます。"
+  },
+  {
+    "id": 57,
+    "owner": "u1",
+    "english": "Yes. Rakugo has a long history, and it's still popular today.",
+    "japanese": "はい。落語は長い歴史があって、今でも人気があります。"
+  },
+  {
+    "id": 58,
+    "owner": "u1",
+    "english": "How old is rakugo?",
+    "japanese": "落語はどれくらい歴史がありますか。"
+  },
+  {
+    "id": 59,
+    "owner": "u1",
+    "english": "Well, it's over 400 years old.",
+    "japanese": "ええと、それは400年を超える歴史があります。"
+  },
+  {
+    "id": 60,
+    "owner": "u1",
+    "english": "Rakugo is Japanese comic storytelling.",
+    "japanese": "落語は日本の滑稽な物語を話す話術です。"
+  },
+
+  /* --- ここから Naoki（owner: u2）よく使うフレーズ集 --- */
+
+  { "id": 101, "owner": "u2", "english": "Good morning!", "japanese": "おはよう！" },
+  { "id": 102, "owner": "u2", "english": "Good night.", "japanese": "おやすみ。" },
+  { "id": 103, "owner": "u2", "english": "See you!", "japanese": "またね！" },
+  { "id": 104, "owner": "u2", "english": "See you tomorrow.", "japanese": "またあしたね。" },
+  { "id": 105, "owner": "u2", "english": "How are you?", "japanese": "元気？" },
+  { "id": 106, "owner": "u2", "english": "I'm fine.", "japanese": "元気だよ。" },
+  { "id": 107, "owner": "u2", "english": "I'm tired.", "japanese": "つかれた〜。" },
+  { "id": 108, "owner": "u2", "english": "I'm hungry.", "japanese": "おなかすいた。" },
+  { "id": 109, "owner": "u2", "english": "I'm thirsty.", "japanese": "のどかわいた。" },
+  { "id": 110, "owner": "u2", "english": "I'm sleepy.", "japanese": "ねむいよ。" },
+
+  { "id": 111, "owner": "u2", "english": "My name is Naoki.", "japanese": "ぼくの名前はなおきです。" },
+  { "id": 112, "owner": "u2", "english": "Nice to meet you.", "japanese": "はじめまして。" },
+  { "id": 113, "owner": "u2", "english": "This is my friend.", "japanese": "これはぼくの友だちです。" },
+  { "id": 114, "owner": "u2", "english": "This is my brother.", "japanese": "これはぼくの兄弟です。" },
+  { "id": 115, "owner": "u2", "english": "This is my sister.", "japanese": "これはぼくの姉妹です。" },
+
+  { "id": 116, "owner": "u2", "english": "I like soccer.", "japanese": "サッカーが好きだよ。" },
+  { "id": 117, "owner": "u2", "english": "I like video games.", "japanese": "ゲームが好きだよ。" },
+  { "id": 118, "owner": "u2", "english": "I like math.", "japanese": "算数が好き。" },
+  { "id": 119, "owner": "u2", "english": "I like science.", "japanese": "理科が好き。" },
+  { "id": 120, "owner": "u2", "english": "I like reading comics.", "japanese": "マンガを読むのが好き。" },
+
+  { "id": 121, "owner": "u2", "english": "I don't like homework.", "japanese": "宿題は好きじゃない。" },
+  { "id": 122, "owner": "u2", "english": "I don't like tests.", "japanese": "テストは好きじゃない。" },
+  { "id": 123, "owner": "u2", "english": "I love holidays.", "japanese": "休みが大好き。" },
+  { "id": 124, "owner": "u2", "english": "I love summer vacation.", "japanese": "夏休みが大好き。" },
+  { "id": 125, "owner": "u2", "english": "This is my favorite game.", "japanese": "これはぼくの一番好きなゲームです。" },
+
+  { "id": 126, "owner": "u2", "english": "Let's play soccer.", "japanese": "サッカーしよう。" },
+  { "id": 127, "owner": "u2", "english": "Let's play a game.", "japanese": "ゲームしよう。" },
+  { "id": 128, "owner": "u2", "english": "Let's study together.", "japanese": "いっしょに勉強しよう。" },
+  { "id": 129, "owner": "u2", "english": "Let's go outside.", "japanese": "外に行こう。" },
+  { "id": 130, "owner": "u2", "english": "Let's take a break.", "japanese": "休憩しよう。" },
+
+  { "id": 131, "owner": "u2", "english": "Can you help me?", "japanese": "手伝ってくれる？" },
+  { "id": 132, "owner": "u2", "english": "Can you show me?", "japanese": "見せてくれる？" },
+  { "id": 133, "owner": "u2", "english": "Can you say that again?", "japanese": "もう一回言ってくれる？" },
+  { "id": 134, "owner": "u2", "english": "Can you play with me?", "japanese": "いっしょに遊んでくれる？" },
+  { "id": 135, "owner": "u2", "english": "Can you wait a minute?", "japanese": "ちょっと待ってくれる？" },
+
+  { "id": 136, "owner": "u2", "english": "May I go to the toilet?", "japanese": "トイレに行ってもいいですか。" },
+  { "id": 137, "owner": "u2", "english": "May I drink some water?", "japanese": "水を飲んでもいいですか。" },
+  { "id": 138, "owner": "u2", "english": "May I open the window?", "japanese": "窓を開けてもいいですか。" },
+  { "id": 139, "owner": "u2", "english": "May I close the door?", "japanese": "ドアを閉めてもいいですか。" },
+  { "id": 140, "owner": "u2", "english": "May I sit here?", "japanese": "ここに座ってもいい？" },
+
+  { "id": 141, "owner": "u2", "english": "Thank you.", "japanese": "ありがとう。" },
+  { "id": 142, "owner": "u2", "english": "Thank you for your help.", "japanese": "手伝ってくれてありがとう。" },
+  { "id": 143, "owner": "u2", "english": "I'm sorry.", "japanese": "ごめんね。" },
+  { "id": 144, "owner": "u2", "english": "It's okay.", "japanese": "大丈夫だよ。" },
+  { "id": 145, "owner": "u2", "english": "No problem.", "japanese": "問題ないよ。" },
+
+  { "id": 146, "owner": "u2", "english": "Please be quiet.", "japanese": "しずかにしてね。" },
+  { "id": 147, "owner": "u2", "english": "Please stop it.", "japanese": "やめてよ。" },
+  { "id": 148, "owner": "u2", "english": "Please listen to me.", "japanese": "ぼくの話を聞いて。" },
+  { "id": 149, "owner": "u2", "english": "Please turn on the light.", "japanese": "電気をつけてください。" },
+  { "id": 150, "owner": "u2", "english": "Please turn off the TV.", "japanese": "テレビを消して。" },
+
+  { "id": 151, "owner": "u2", "english": "I have a question.", "japanese": "質問があります。" },
+  { "id": 152, "owner": "u2", "english": "I don't understand.", "japanese": "わかりません。" },
+  { "id": 153, "owner": "u2", "english": "I get it now.", "japanese": "今わかったよ。" },
+  { "id": 154, "owner": "u2", "english": "I'm ready.", "japanese": "準備できたよ。" },
+  { "id": 155, "owner": "u2", "english": "I'm not ready yet.", "japanese": "まだ準備できてない。" },
+
+  { "id": 156, "owner": "u2", "english": "What time is it?", "japanese": "今何時？" },
+  { "id": 157, "owner": "u2", "english": "It's time to go.", "japanese": "もう行く時間だよ。" },
+  { "id": 158, "owner": "u2", "english": "It's time to study.", "japanese": "勉強する時間だよ。" },
+  { "id": 159, "owner": "u2", "english": "I'm late.", "japanese": "遅れちゃった。" },
+  { "id": 160, "owner": "u2", "english": "I'm early.", "japanese": "早く着いたよ。" },
+
+  { "id": 161, "owner": "u2", "english": "Where is my pencil?", "japanese": "ぼくのえんぴつどこ？" },
+  { "id": 162, "owner": "u2", "english": "Where is my homework?", "japanese": "宿題どこいった？" },
+  { "id": 163, "owner": "u2", "english": "It's on the desk.", "japanese": "机の上にあるよ。" },
+  { "id": 164, "owner": "u2", "english": "It's in my bag.", "japanese": "かばんの中にあるよ。" },
+  { "id": 165, "owner": "u2", "english": "I can't find it.", "japanese": "見つからないよ。" },
+
+  { "id": 166, "owner": "u2", "english": "This is fun.", "japanese": "これ楽しい。" },
+  { "id": 167, "owner": "u2", "english": "This is boring.", "japanese": "これつまらない。" },
+  { "id": 168, "owner": "u2", "english": "This is easy.", "japanese": "これは簡単だよ。" },
+  { "id": 169, "owner": "u2", "english": "This is difficult.", "japanese": "これはむずかしい。" },
+  { "id": 170, "owner": "u2", "english": "I'm excited.", "japanese": "ワクワクしてる。" },
+
+  { "id": 171, "owner": "u2", "english": "Are you okay?", "japanese": "大丈夫？" },
+  { "id": 172, "owner": "u2", "english": "Let's go!", "japanese": "行こう！" },
+  { "id": 173, "owner": "u2", "english": "Wait for me!", "japanese": "待ってよ！" },
+  { "id": 174, "owner": "u2", "english": "Good luck!", "japanese": "がんばって！" },
+  { "id": 175, "owner": "u2", "english": "That's cool!", "japanese": "それ、かっこいい！" },
+
+  { "id": 176, "owner": "u2", "english": "Nice pass!", "japanese": "ナイスパス！" },
+  { "id": 177, "owner": "u2", "english": "Nice shot!", "japanese": "ナイスシュート！" },
+  { "id": 178, "owner": "u2", "english": "I win!", "japanese": "ぼくの勝ち！" },
+  { "id": 179, "owner": "u2", "english": "You win.", "japanese": "きみの勝ちだよ。" },
+  { "id": 180, "owner": "u2", "english": "Let's try again.", "japanese": "もう一回やろう。" },
+
+  { "id": 181, "owner": "u2", "english": "Can I use this?", "japanese": "これ使っていい？" },
+  { "id": 182, "owner": "u2", "english": "Can I borrow your pen?", "japanese": "ペン借りてもいい？" },
+  { "id": 183, "owner": "u2", "english": "Can I sit next to you?", "japanese": "となりに座っていい？" },
+  { "id": 184, "owner": "u2", "english": "Can we play later?", "japanese": "あとで遊べる？" },
+  { "id": 185, "owner": "u2", "english": "Can we play online?", "japanese": "オンラインで一緒にできる？" },
+
+  { "id": 186, "owner": "u2", "english": "I'm home.", "japanese": "ただいまー。" },
+  { "id": 187, "owner": "u2", "english": "I'm leaving now.", "japanese": "今から行ってきます。" },
+  { "id": 188, "owner": "u2", "english": "I'm going to school.", "japanese": "学校に行ってきます。" },
+  { "id": 189, "owner": "u2", "english": "I'm back from school.", "japanese": "学校から帰ってきたよ。" },
+  { "id": 190, "owner": "u2", "english": "I'm taking a shower.", "japanese": "今シャワーあびてるよ。" },
+
+  { "id": 191, "owner": "u2", "english": "I'm happy.", "japanese": "うれしい。" },
+  { "id": 192, "owner": "u2", "english": "I'm sad.", "japanese": "かなしい。" },
+  { "id": 193, "owner": "u2", "english": "I'm angry.", "japanese": "おこってる。" },
+  { "id": 194, "owner": "u2", "english": "I'm scared.", "japanese": "こわいよ。" },
+  { "id": 195, "owner": "u2", "english": "I'm bored.", "japanese": "ひま〜。" },
+
+  { "id": 196, "owner": "u2", "english": "I finished my homework.", "japanese": "宿題おわったよ。" },
+  { "id": 197, "owner": "u2", "english": "I didn't finish my homework.", "japanese": "宿題おわってない。" },
+  { "id": 198, "owner": "u2", "english": "Let's do it together.", "japanese": "いっしょにやろう。" },
+  { "id": 199, "owner": "u2", "english": "Please check this.", "japanese": "これチェックして。" },
+  { "id": 200, "owner": "u2", "english": "That's all for today.", "japanese": "今日はここまで。" },
+
+  /* --- ここから Mariko（owner: u3）大人・旅行系 --- */
+
+  { "id": 301, "owner": "u3", "english": "Good morning.", "japanese": "おはようございます。" },
+  { "id": 302, "owner": "u3", "english": "Good evening.", "japanese": "こんばんは。" },
+  { "id": 303, "owner": "u3", "english": "How are you?", "japanese": "お元気ですか。" },
+  { "id": 304, "owner": "u3", "english": "I'm good, thank you.", "japanese": "元気です、ありがとうございます。" },
+  { "id": 305, "owner": "u3", "english": "Nice to meet you.", "japanese": "はじめまして。" },
+
+  { "id": 306, "owner": "u3", "english": "Excuse me.", "japanese": "すみません。" },
+  { "id": 307, "owner": "u3", "english": "Thank you very much.", "japanese": "どうもありがとうございます。" },
+  { "id": 308, "owner": "u3", "english": "You're welcome.", "japanese": "どういたしまして。" },
+  { "id": 309, "owner": "u3", "english": "I'm sorry.", "japanese": "ごめんなさい。" },
+  { "id": 310, "owner": "u3", "english": "No problem.", "japanese": "大丈夫ですよ。" },
+
+  { "id": 311, "owner": "u3", "english": "Where is the station?", "japanese": "駅はどこですか。" },
+  { "id": 312, "owner": "u3", "english": "Where is the bus stop?", "japanese": "バス停はどこですか。" },
+  { "id": 313, "owner": "u3", "english": "How can I get to the airport?", "japanese": "空港へはどうやって行けますか。" },
+  { "id": 314, "owner": "u3", "english": "Is this the right bus?", "japanese": "これは正しいバスですか。" },
+  { "id": 315, "owner": "u3", "english": "How much is the ticket?", "japanese": "チケットはいくらですか。" },
+
+  { "id": 316, "owner": "u3", "english": "I have a reservation.", "japanese": "予約しています。" },
+  { "id": 317, "owner": "u3", "english": "I'd like to check in.", "japanese": "チェックインをお願いします。" },
+  { "id": 318, "owner": "u3", "english": "Could I have a late check-out?", "japanese": "レイトチェックアウトはできますか。" },
+  { "id": 319, "owner": "u3", "english": "Is breakfast included?", "japanese": "朝食は含まれていますか。" },
+  { "id": 320, "owner": "u3", "english": "Could you keep my luggage?", "japanese": "荷物を預かっていただけますか。" },
+
+  { "id": 321, "owner": "u3", "english": "A table for two, please.", "japanese": "2人用の席をお願いします。" },
+  { "id": 322, "owner": "u3", "english": "Can I see the menu?", "japanese": "メニューを見せていただけますか。" },
+  { "id": 323, "owner": "u3", "english": "What do you recommend?", "japanese": "おすすめは何ですか。" },
+  { "id": 324, "owner": "u3", "english": "I'll have this one.", "japanese": "これにします。" },
+  { "id": 325, "owner": "u3", "english": "Could I have the bill, please?", "japanese": "お会計をお願いします。" },
+
+  { "id": 326, "owner": "u3", "english": "Where is the restroom?", "japanese": "トイレはどこですか。" },
+  { "id": 327, "owner": "u3", "english": "Is there a supermarket nearby?", "japanese": "近くにスーパーはありますか。" },
+  { "id": 328, "owner": "u3", "english": "Is there a pharmacy near here?", "japanese": "この近くに薬局はありますか。" },
+  { "id": 329, "owner": "u3", "english": "Can I pay by credit card?", "japanese": "クレジットカードで払えますか。" },
+  { "id": 330, "owner": "u3", "english": "Do you accept cash only?", "japanese": "現金のみですか。" },
+
+  { "id": 331, "owner": "u3", "english": "Could you speak more slowly?", "japanese": "もう少しゆっくり話していただけますか。" },
+  { "id": 332, "owner": "u3", "english": "Could you say that again?", "japanese": "もう一度言っていただけますか。" },
+  { "id": 333, "owner": "u3", "english": "I don't understand.", "japanese": "よく分かりません。" },
+  { "id": 334, "owner": "u3", "english": "Can you show me on the map?", "japanese": "地図で見せてもらえますか。" },
+  { "id": 335, "owner": "u3", "english": "That's very helpful, thank you.", "japanese": "とても助かります、ありがとうございます。" },
+
+  { "id": 336, "owner": "u3", "english": "I'm just looking, thank you.", "japanese": "見ているだけです、ありがとうございます。" },
+  { "id": 337, "owner": "u3", "english": "Do you have this in a larger size?", "japanese": "これの大きいサイズはありますか。" },
+  { "id": 338, "owner": "u3", "english": "Do you have this in a smaller size?", "japanese": "これの小さいサイズはありますか。" },
+  { "id": 339, "owner": "u3", "english": "Can I try this on?", "japanese": "試着してもいいですか。" },
+  { "id": 340, "owner": "u3", "english": "I'll think about it.", "japanese": "少し考えます。" },
+
+  /* --- ここから Hirotsugu（owner: u4）内容は u3 と同じ --- */
+
+  { "id": 401, "owner": "u4", "english": "Good morning.", "japanese": "おはようございます。" },
+  { "id": 402, "owner": "u4", "english": "Good evening.", "japanese": "こんばんは。" },
+  { "id": 403, "owner": "u4", "english": "How are you?", "japanese": "お元気ですか。" },
+  { "id": 404, "owner": "u4", "english": "I'm good, thank you.", "japanese": "元気です、ありがとうございます。" },
+  { "id": 405, "owner": "u4", "english": "Nice to meet you.", "japanese": "はじめまして。" },
+
+  { "id": 406, "owner": "u4", "english": "Excuse me.", "japanese": "すみません。" },
+  { "id": 407, "owner": "u4", "english": "Thank you very much.", "japanese": "どうもありがとうございます。" },
+  { "id": 408, "owner": "u4", "english": "You're welcome.", "japanese": "どういたしまして。" },
+  { "id": 409, "owner": "u4", "english": "I'm sorry.", "japanese": "ごめんなさい。" },
+  { "id": 410, "owner": "u4", "english": "No problem.", "japanese": "大丈夫ですよ。" },
+
+  { "id": 411, "owner": "u4", "english": "Where is the station?", "japanese": "駅はどこですか。" },
+  { "id": 412, "owner": "u4", "english": "Where is the bus stop?", "japanese": "バス停はどこですか。" },
+  { "id": 413, "owner": "u4", "english": "How can I get to the airport?", "japanese": "空港へはどうやって行けますか。" },
+  { "id": 414, "owner": "u4", "english": "Is this the right bus?", "japanese": "これは正しいバスですか。" },
+  { "id": 415, "owner": "u4", "english": "How much is the ticket?", "japanese": "チケットはいくらですか。" },
+
+  { "id": 416, "owner": "u4", "english": "I have a reservation.", "japanese": "予約しています。" },
+  { "id": 417, "owner": "u4", "english": "I'd like to check in.", "japanese": "チェックインをお願いします。" },
+  { "id": 418, "owner": "u4", "english": "Could I have a late check-out?", "japanese": "レイトチェックアウトはできますか。" },
+  { "id": 419, "owner": "u4", "english": "Is breakfast included?", "japanese": "朝食は含まれていますか。" },
+  { "id": 420, "owner": "u4", "english": "Could you keep my luggage?", "japanese": "荷物を預かっていただけますか。" },
+
+  { "id": 421, "owner": "u4", "english": "A table for two, please.", "japanese": "2人用の席をお願いします。" },
+  { "id": 422, "owner": "u4", "english": "Can I see the menu?", "japanese": "メニューを見せていただけますか。" },
+  { "id": 423, "owner": "u4", "english": "What do you recommend?", "japanese": "おすすめは何ですか。" },
+  { "id": 424, "owner": "u4", "english": "I'll have this one.", "japanese": "これにします。" },
+  { "id": 425, "owner": "u4", "english": "Could I have the bill, please?", "japanese": "お会計をお願いします。" },
+
+  { "id": 426, "owner": "u4", "english": "Where is the restroom?", "japanese": "トイレはどこですか。" },
+  { "id": 427, "owner": "u4", "english": "Is there a supermarket nearby?", "japanese": "近くにスーパーはありますか。" },
+  { "id": 428, "owner": "u4", "english": "Is there a pharmacy near here?", "japanese": "この近くに薬局はありますか。" },
+  { "id": 429, "owner": "u4", "english": "Can I pay by credit card?", "japanese": "クレジットカードで払えますか。" },
+  { "id": 430, "owner": "u4", "english": "Do you accept cash only?", "japanese": "現金のみですか。" },
+
+  { "id": 431, "owner": "u4", "english": "Could you speak more slowly?", "japanese": "もう少しゆっくり話していただけますか。" },
+  { "id": 432, "owner": "u4", "english": "Could you say that again?", "japanese": "もう一度言っていただけますか。" },
+  { "id": 433, "owner": "u4", "english": "I don't understand.", "japanese": "よく分かりません。" },
+  { "id": 434, "owner": "u4", "english": "Can you show me on the map?", "japanese": "地図で見せてもらえますか。" },
+  { "id": 435, "owner": "u4", "english": "That's very helpful, thank you.", "japanese": "とても助かります、ありがとうございます。" },
+
+  { "id": 436, "owner": "u4", "english": "I'm just looking, thank you.", "japanese": "見ているだけです、ありがとうございます。" },
+  { "id": 437, "owner": "u4", "english": "Do you have this in a larger size?", "japanese": "これの大きいサイズはありますか。" },
+  { "id": 438, "owner": "u4", "english": "Do you have this in a smaller size?", "japanese": "これの小さいサイズはありますか。" },
+  { "id": 439, "owner": "u4", "english": "Can I try this on?", "japanese": "試着してもいいですか。" },
+  { "id": 440, "owner": "u4", "english": "I'll think about it.", "japanese": "少し考えます。" }
+]
