@@ -360,7 +360,6 @@
     "japanese": "落語は日本の滑稽な物語を話す話術です。"
   },
 
-  /* --- ここから Naoki（owner: u2）よく使うフレーズ集 --- */
 
   { "id": 101, "owner": "u2", "english": "Good morning!", "japanese": "おはよう！" },
   { "id": 102, "owner": "u2", "english": "Good night.", "japanese": "おやすみ。" },
@@ -481,7 +480,6 @@
   { "id": 199, "owner": "u2", "english": "Please check this.", "japanese": "これチェックして。" },
   { "id": 200, "owner": "u2", "english": "That's all for today.", "japanese": "今日はここまで。" },
 
-  /* --- ここから Mariko（owner: u3）大人・旅行系 --- */
 
   { "id": 301, "owner": "u3", "english": "Good morning.", "japanese": "おはようございます。" },
   { "id": 302, "owner": "u3", "english": "Good evening.", "japanese": "こんばんは。" },
@@ -531,7 +529,6 @@
   { "id": 339, "owner": "u3", "english": "Can I try this on?", "japanese": "試着してもいいですか。" },
   { "id": 340, "owner": "u3", "english": "I'll think about it.", "japanese": "少し考えます。" },
 
-  /* --- ここから Hirotsugu（owner: u4）内容は u3 と同じ --- */
 
   { "id": 401, "owner": "u4", "english": "Good morning.", "japanese": "おはようございます。" },
   { "id": 402, "owner": "u4", "english": "Good evening.", "japanese": "こんばんは。" },
