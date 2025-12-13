@@ -485,7 +485,7 @@
   { "id": 203, "owner": "u2", "english": "I leave my house.", "japanese": "家を出ます。" },
   { "id": 204, "owner": "u2", "english": "wake up.", "japanese": "目がさめる。" },
   { "id": 205, "owner": "u2", "english": "put away my clothes.", "japanese": "服を片付ける。" },
-  { "id": 205, "owner": "u2", "english": "check my school bag.", "japanese": "学校のかばんを確認する。" },
+  { "id": 206, "owner": "u2", "english": "check my school bag.", "japanese": "学校のかばんを確認する。" },
 
   { "id": 301, "owner": "u3", "english": "Good morning.", "japanese": "おはようございます。" },
   { "id": 302, "owner": "u3", "english": "Good evening.", "japanese": "こんばんは。" },
