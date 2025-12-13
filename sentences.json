@@ -535,52 +535,100 @@
   { "id": 339, "owner": "u3", "english": "Can I try this on?", "japanese": "試着してもいいですか。" },
   { "id": 340, "owner": "u3", "english": "I'll think about it.", "japanese": "少し考えます。" },
 
+  { "id": 401, "owner": "u4", "english": "You got to let go", "japanese": "もう忘れなよ。" },
+  { "id": 402, "owner": "u4", "english": "Maybe it’s a little too late", "japanese": "多分もう少し遅すぎたのかもしれない。" },
+  { "id": 403, "owner": "u4", "english": "Cause I already put my all to the table", "japanese": "だってもう自分の全部をさらけ出しちゃったからね。" },
+  { "id": 404, "owner": "u4", "english": "Everything about me from the get go", "japanese": "最初から僕のすべてを見せてきたんだ。" },
+  { "id": 405, "owner": "u4", "english": "There goes another love song", "japanese": "またひとつラブソングが生まれていく。" },
+  { "id": 406, "owner": "u4", "english": "Hate that it’s becoming my usual", "japanese": "それが自分の“いつものパターン”になってきているのが嫌なんだ。" },
+  { "id": 407, "owner": "u4", "english": "Taking things slow I just can’t control", "japanese": "ゆっくり進めるなんて、僕にはコントロールできない。" },
+  { "id": 408, "owner": "u4", "english": "Baby I’m incapable of it", "japanese": "ベイビー、そんなの僕には無理なんだよ。" },
+  { "id": 409, "owner": "u4", "english": "Then one day you show up", "japanese": "そしてある日、君が現れた。" },
+  { "id": 410, "owner": "u4", "english": "You show up like heaven sent you here", "japanese": "まるで天国から遣わされたみたいに君が現れて。" },
 
-  { "id": 401, "owner": "u4", "english": "Good morning.", "japanese": "おはようございます。" },
-  { "id": 402, "owner": "u4", "english": "Good evening.", "japanese": "こんばんは。" },
-  { "id": 403, "owner": "u4", "english": "How are you?", "japanese": "お元気ですか。" },
-  { "id": 404, "owner": "u4", "english": "I'm good, thank you.", "japanese": "元気です、ありがとうございます。" },
-  { "id": 405, "owner": "u4", "english": "Nice to meet you.", "japanese": "はじめまして。" },
+  {
+    "id": 411,
+    "owner": "u4",
+    "english": "So I say hello, how are you doing, nice to meet you",
+    "japanese": "それで僕は「やあ、元気？ はじめまして」って声をかける。"
+  },
 
-  { "id": 406, "owner": "u4", "english": "Excuse me.", "japanese": "すみません。" },
-  { "id": 407, "owner": "u4", "english": "Thank you very much.", "japanese": "どうもありがとうございます。" },
-  { "id": 408, "owner": "u4", "english": "You're welcome.", "japanese": "どういたしまして。" },
-  { "id": 409, "owner": "u4", "english": "I'm sorry.", "japanese": "ごめんなさい。" },
-  { "id": 410, "owner": "u4", "english": "No problem.", "japanese": "大丈夫ですよ。" },
+  {
+    "id": 412,
+    "owner": "u4",
+    "english": "All my friends are telling me she might be bad news",
+    "japanese": "友だちはみんな「彼女はやめておいたほうがいいかも」と言うけれど。"
+  },
+  { "id": 413, "owner": "u4", "english": "Now I can’t go back", "japanese": "でももう後戻りはできない。" },
+  { "id": 414, "owner": "u4", "english": "Yeah you know I’m caught up in you", "japanese": "知ってるだろ？ もう僕は君の虜なんだ。" },
 
-  { "id": 411, "owner": "u4", "english": "Where is the station?", "japanese": "駅はどこですか。" },
-  { "id": 412, "owner": "u4", "english": "Where is the bus stop?", "japanese": "バス停はどこですか。" },
-  { "id": 413, "owner": "u4", "english": "How can I get to the airport?", "japanese": "空港へはどうやって行けますか。" },
-  { "id": 414, "owner": "u4", "english": "Is this the right bus?", "japanese": "これは正しいバスですか。" },
-  { "id": 415, "owner": "u4", "english": "How much is the ticket?", "japanese": "チケットはいくらですか。" },
+  { "id": 415, "owner": "u4", "english": "I get obsessed so easily", "japanese": "僕はすぐ誰かに夢中になってしまう。" },
 
-  { "id": 416, "owner": "u4", "english": "I have a reservation.", "japanese": "予約しています。" },
-  { "id": 417, "owner": "u4", "english": "I'd like to check in.", "japanese": "チェックインをお願いします。" },
-  { "id": 418, "owner": "u4", "english": "Could I have a late check-out?", "japanese": "レイトチェックアウトはできますか。" },
-  { "id": 419, "owner": "u4", "english": "Is breakfast included?", "japanese": "朝食は含まれていますか。" },
-  { "id": 420, "owner": "u4", "english": "Could you keep my luggage?", "japanese": "荷物を預かっていただけますか。" },
+  {
+    "id": 416,
+    "owner": "u4",
+    "english": "Like honestly what is wrong with me",
+    "japanese": "正直、自分どうしちゃってるんだって思う。"
+  },
 
-  { "id": 421, "owner": "u4", "english": "A table for two, please.", "japanese": "2人用の席をお願いします。" },
-  { "id": 422, "owner": "u4", "english": "Can I see the menu?", "japanese": "メニューを見せていただけますか。" },
-  { "id": 423, "owner": "u4", "english": "What do you recommend?", "japanese": "おすすめは何ですか。" },
-  { "id": 424, "owner": "u4", "english": "I'll have this one.", "japanese": "これにします。" },
-  { "id": 425, "owner": "u4", "english": "Could I have the bill, please?", "japanese": "お会計をお願いします。" },
+  { "id": 417, "owner": "u4", "english": "I go two nights out with a girl", "japanese": "女の子とたった二晩出かけただけで。" },
+  { "id": 418, "owner": "u4", "english": "And I think I’m in love", "japanese": "もう恋に落ちた気になってしまう。" },
+  { "id": 419, "owner": "u4", "english": "Why do I fall so easily", "japanese": "どうしてこんなに簡単に恋に落ちるんだろう。" },
+  { "id": 420, "owner": "u4", "english": "Or is it that she’s so perfect for me", "japanese": "それとも、彼女が僕にとって完璧すぎるだけなのか。" },
+  { "id": 421, "owner": "u4", "english": "I can’t keep on meeting the love of my life like this", "japanese": "こんなに何度も“運命の人”に会えるわけがないのに。" },
+  { "id": 422, "owner": "u4", "english": "But I guess I’m obsessed with you", "japanese": "それでも、やっぱり君に夢中なんだ。" },
 
-  { "id": 426, "owner": "u4", "english": "Where is the restroom?", "japanese": "トイレはどこですか。" },
-  { "id": 427, "owner": "u4", "english": "Is there a supermarket nearby?", "japanese": "近くにスーパーはありますか。" },
-  { "id": 428, "owner": "u4", "english": "Is there a pharmacy near here?", "japanese": "この近くに薬局はありますか。" },
-  { "id": 429, "owner": "u4", "english": "Can I pay by credit card?", "japanese": "クレジットカードで払えますか。" },
-  { "id": 430, "owner": "u4", "english": "Do you accept cash only?", "japanese": "現金のみですか。" },
+  { "id": 423, "owner": "u4", "english": "Think I’m doing better", "japanese": "前よりはましになってきたと思う。" },
+  {
+    "id": 424,
+    "owner": "u4",
+    "english": "Took a little but I got my head on straight",
+    "japanese": "少し時間はかかったけど、ようやく気持ちも落ち着いてきた。"
+  },
 
-  { "id": 431, "owner": "u4", "english": "Could you speak more slowly?", "japanese": "もう少しゆっくり話していただけますか。" },
-  { "id": 432, "owner": "u4", "english": "Could you say that again?", "japanese": "もう一度言っていただけますか。" },
-  { "id": 433, "owner": "u4", "english": "I don't understand.", "japanese": "よく分かりません。" },
-  { "id": 434, "owner": "u4", "english": "Can you show me on the map?", "japanese": "地図で見せてもらえますか。" },
-  { "id": 435, "owner": "u4", "english": "That's very helpful, thank you.", "japanese": "とても助かります、ありがとうございます。" },
+  {
+    "id": 425,
+    "owner": "u4",
+    "english": "Finally taking good care of me, myself and I",
+    "japanese": "やっと自分のことをちゃんと大切にできるようになってきた。"
+  },
 
-  { "id": 436, "owner": "u4", "english": "I'm just looking, thank you.", "japanese": "見ているだけです、ありがとうございます。" },
-  { "id": 437, "owner": "u4", "english": "Do you have this in a larger size?", "japanese": "これの大きいサイズはありますか。" },
-  { "id": 438, "owner": "u4", "english": "Do you have this in a smaller size?", "japanese": "これの小さいサイズはありますか。" },
-  { "id": 439, "owner": "u4", "english": "Can I try this on?", "japanese": "試着してもいいですか。" },
-  { "id": 440, "owner": "u4", "english": "I'll think about it.", "japanese": "少し考えます。" }
+  {
+    "id": 426,
+    "owner": "u4",
+    "english": "I don’t want to wait anymore",
+    "japanese": "もうこれ以上待っていたくない。"
+  },
+
+  {
+    "id": 427,
+    "owner": "u4",
+    "english": "Trying everything I can like meditating",
+    "japanese": "瞑想とか、とにかくできることは何でも試して。"
+  },
+  {
+    "id": 428,
+    "owner": "u4",
+    "english": "Keeping myself busy down to every second",
+    "japanese": "一秒たりとも暇がないくらい自分を忙しくして。"
+  },
+  {
+    "id": 429,
+    "owner": "u4",
+    "english": "So I don’t have time to fantasize",
+    "japanese": "君とのことを空想する時間がないようにしている。"
+  },
+  {
+    "id": 430,
+    "owner": "u4",
+    "english": "What it could have been like, you and I",
+    "japanese": "もし君と僕がどうなっていたかなんて、考えないようにしているんだ。"
+  },
+  { "id": 431, "owner": "u4", "english": "But then again you show up", "japanese": "なのにまた、君が現れる。" },
+  {
+    "id": 432,
+    "owner": "u4",
+    "english": "Is all the blame on me ‘cause you can’t deny your natural beauty",
+    "japanese": "でも君の生まれつきの美しさを否定できないなら、全部僕のせいってことなのかな。"
+  }
 ]
