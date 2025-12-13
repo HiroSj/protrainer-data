@@ -1,363 +1,63 @@
 [
-  {
+   {
     "id": 1,
     "owner": "u1",
-    "english": "This is my brother, Fumiya.",
-    "japanese": "こちらは私の兄妹、ふみやです。"
+    "english": "When I find myself in times of trouble, Mother Mary comes to me.",
+    "japanese": "苦しい時が訪れると、聖母マリアがそっと現れます。"
   },
   {
     "id": 2,
     "owner": "u1",
-    "english": "He's twenty-four years old.",
-    "japanese": "彼は24歳です。"
+    "english": "Speaking words of wisdom, let it be.",
+    "japanese": "優しく「あるがままに」と語りかけてくれます。"
   },
   {
     "id": 3,
     "owner": "u1",
-    "english": "He lives in Honolulu, Hawaii.",
-    "japanese": "彼はハワイのホノルルに住んでいます。"
+    "english": "And in my hour of darkness, she is standing right in front of me.",
+    "japanese": "闇に包まれたその時も、彼女は目の前に立っていてくれます。"
   },
   {
     "id": 4,
     "owner": "u1",
-    "english": "He works as a tour guide.",
-    "japanese": "彼はツアーガイドとして働いています。"
+    "english": "And when the broken-hearted people living in the world agree, there will be an answer, let it be.",
+    "japanese": "傷ついた人々がこの世界で分かち合えたなら、きっと答えは見つかるさ──あるがままに。"
   },
   {
     "id": 5,
     "owner": "u1",
-    "english": "He really likes Hawaii.",
-    "japanese": "彼はハワイが本当に好きです。"
+    "english": "For though they may be parted, there is still a chance that they will see.",
+    "japanese": "たとえ離ればなれでも、また分かり合える日が来るチャンスは残っています。"
   },
   {
     "id": 6,
     "owner": "u1",
-    "english": "He can speak English very well.",
-    "japanese": "彼はとても上手に英語を話せます。"
+    "english": "There will be an answer, let it be.",
+    "japanese": "答えは必ず見つかるさ。「あるがままに」と。"
   },
   {
     "id": 7,
     "owner": "u1",
-    "english": "Fumiya studies a lot about Hawaii.",
-    "japanese": "ふみやはハワイに関してたくさん勉強しています。"
+    "english": "And when the night is cloudy, there is still a light that shines on me.",
+    "japanese": "夜がどんなに暗くても、それでも光は僕を照らしています。"
   },
   {
     "id": 8,
     "owner": "u1",
-    "english": "He writes a blog about local food, nature, and beautiful spots.",
-    "japanese": "彼は地元の食べ物、自然、美しい場所に関するブログを書きます。"
+    "english": "Shine until tomorrow, let it be.",
+    "japanese": "その光は明日へと導いてくれる──あるがままに。"
   },
   {
     "id": 9,
     "owner": "u1",
-    "english": "I enjoy reading his blog very much.",
-    "japanese": "私は彼のブログを読むことを大いに楽しみます。"
+    "english": "I wake up to the sound of music, Mother Mary comes to me.",
+    "japanese": "音楽の響きで目覚めると、聖母マリアがそっと現れます。"
   },
   {
     "id": 10,
     "owner": "u1",
-    "english": "Do you have any questions?",
-    "japanese": "あなたたちは何か質問がありますか。"
-  },
-  {
-    "id": 11,
-    "owner": "u1",
-    "english": "Yes. Does Fumiya live near a beach?",
-    "japanese": "はい。ふみやはビーチの近くに住んでいますか。"
-  },
-  {
-    "id": 12,
-    "owner": "u1",
-    "english": "Yes, he does.",
-    "japanese": "はい、彼は住んでいます。"
-  },
-  {
-    "id": 13,
-    "owner": "u1",
-    "english": "Hawaii has many beautiful beaches.",
-    "japanese": "ハワイには多くの美しいビーチがあります。"
-  },
-  {
-    "id": 14,
-    "owner": "u1",
-    "english": "Does he go to the beach every day?",
-    "japanese": "彼は毎日ビーチへ行きますか。"
-  },
-  {
-    "id": 15,
-    "owner": "u1",
-    "english": "No, he doesn't.",
-    "japanese": "いいえ、彼は行きません。"
-  },
-  {
-    "id": 16,
-    "owner": "u1",
-    "english": "Not every day.",
-    "japanese": "毎日ではありません。"
-  },
-  {
-    "id": 17,
-    "owner": "u1",
-    "english": "He usually goes to the beach on weekends.",
-    "japanese": "彼はたいてい週末にビーチへ行きます。"
-  },
-  {
-    "id": 18,
-    "owner": "u1",
-    "english": "What does he do there?",
-    "japanese": "彼はそこで何をしますか。"
-  },
-  {
-    "id": 19,
-    "owner": "u1",
-    "english": "He swims and surfs with his friends.",
-    "japanese": "彼は友達と泳いだりサーフィンをしたりします。"
-  },
-  {
-    "id": 20,
-    "owner": "u1",
-    "english": "Sometimes he swims with dolphins.",
-    "japanese": "ときどき彼はイルカと泳ぎます。"
-  },
-  {
-    "id": 21,
-    "owner": "u1",
-    "english": "He really enjoys life in Hawaii.",
-    "japanese": "彼はハワイでの生活を本当に楽しんでいます。"
-  },
-  {
-    "id": 22,
-    "owner": "u1",
-    "english": "Wow, that's nice!",
-    "japanese": "わあ、それはいいですね。"
-  },
-  {
-    "id": 23,
-    "owner": "u1",
-    "english": "Cafe Maria is my favorite restaurant in Honolulu.",
-    "japanese": "カフェ・マリアはホノルルでの私の一番好きなレストランです。"
-  },
-  {
-    "id": 24,
-    "owner": "u1",
-    "english": "The restaurant does not have a website, but it is very popular.",
-    "japanese": "そのレストランはウェブサイトを持っていませんが、とても人気があります。"
-  },
-  {
-    "id": 25,
-    "owner": "u1",
-    "english": "Maria is the owner of the restaurant.",
-    "japanese": "マリアはそのレストランのオーナーです。"
-  },
-  {
-    "id": 26,
-    "owner": "u1",
-    "english": "She does not speak Japanese, but she knows a lot about Japan.",
-    "japanese": "彼女は日本語を話しませんが、日本についてよく知っています。"
-  },
-  {
-    "id": 27,
-    "owner": "u1",
-    "english": "She is kind and friendly.",
-    "japanese": "彼女は親切で人懐こいです。"
-  },
-  {
-    "id": 28,
-    "owner": "u1",
-    "english": "My favorite dish there is loco moco.",
-    "japanese": "そこでの私の一番好きな料理はロコモコです。"
-  },
-  {
-    "id": 29,
-    "owner": "u1",
-    "english": "It is a beef patty and a fried egg on top of rice.",
-    "japanese": "それはご飯の上に牛肉のパテと目玉焼きがのっています。"
-  },
-  {
-    "id": 30,
-    "owner": "u1",
-    "english": "It is wonderful.",
-    "japanese": "それは素晴らしいです。"
-  },
-  {
-    "id": 31,
-    "owner": "u1",
-    "english": "Oh, that's Tom.",
-    "japanese": "ああ、あれはトムです。"
-  },
-  {
-    "id": 32,
-    "owner": "u1",
-    "english": "Do you know him?",
-    "japanese": "あなたは彼を知っていますか。"
-  },
-  {
-    "id": 33,
-    "owner": "u1",
-    "english": "No, I don't.",
-    "japanese": "いいえ、知りません。"
-  },
-  {
-    "id": 34,
-    "owner": "u1",
-    "english": "Is he your friend?",
-    "japanese": "彼はあなたの友だちですか。"
-  },
-  {
-    "id": 35,
-    "owner": "u1",
-    "english": "Yes. He's in Class 2-2.",
-    "japanese": "はい。彼は2ー2組の一員です。"
-  },
-  {
-    "id": 36,
-    "owner": "u1",
-    "english": "Let's say hi to him.",
-    "japanese": "彼にあいさつしましょう。"
-  },
-  {
-    "id": 37,
-    "owner": "u1",
-    "english": "Hello, Tom.",
-    "japanese": "こんにちは、トム。"
-  },
-  {
-    "id": 38,
-    "owner": "u1",
-    "english": "Hi. How's everything?",
-    "japanese": "こんにちは。調子はどうですか。"
-  },
-  {
-    "id": 39,
-    "owner": "u1",
-    "english": "Everything is fine.",
-    "japanese": "全部大丈夫です。"
-  },
-  {
-    "id": 40,
-    "owner": "u1",
-    "english": "This is a poster for a rakugo show.",
-    "japanese": "これは落語ショーのポスターです。"
-  },
-  {
-    "id": 41,
-    "owner": "u1",
-    "english": "Oh, that's Diane Kichijitsu.",
-    "japanese": "ああ、それはダイアン吉日です。"
-  },
-  {
-    "id": 42,
-    "owner": "u1",
-    "english": "I like her.",
-    "japanese": "私は彼女が好きです。"
-  },
-  {
-    "id": 43,
-    "owner": "u1",
-    "english": "Who is she?",
-    "japanese": "彼女はだれですか。"
-  },
-  {
-    "id": 44,
-    "owner": "u1",
-    "english": "She's a rakugo performer from the U.K.",
-    "japanese": "彼女はイギリス出身の落語の演者です。"
-  },
-  {
-    "id": 45,
-    "owner": "u1",
-    "english": "I want to see her.",
-    "japanese": "私は彼女に会いたいです。"
-  },
-  {
-    "id": 46,
-    "owner": "u1",
-    "english": "Why don't we go together?",
-    "japanese": "一緒に行きませんか。"
-  },
-  {
-    "id": 47,
-    "owner": "u1",
-    "english": "The show starts in five minutes.",
-    "japanese": "ショーは5分後に始まります。"
-  },
-  {
-    "id": 48,
-    "owner": "u1",
-    "english": "I can't wait!",
-    "japanese": "私は待つことができません！（楽しみ！）"
-  },
-  {
-    "id": 49,
-    "owner": "u1",
-    "english": "Oh, whose ticket is this?",
-    "japanese": "あら、これはだれのチケットですか。"
-  },
-  {
-    "id": 50,
-    "owner": "u1",
-    "english": "Is it yours, Eddy?",
-    "japanese": "それはあなたのものですか、エディ。"
-  },
-  {
-    "id": 51,
-    "owner": "u1",
-    "english": "No. I have mine.",
-    "japanese": "いいえ。私は自分のものを持っています。"
-  },
-  {
-    "id": 52,
-    "owner": "u1",
-    "english": "Maybe it's Riko's.",
-    "japanese": "もしかするとそれは、りこのものです。"
-  },
-  {
-    "id": 53,
-    "owner": "u1",
-    "english": "Oops! Yes, it's mine.",
-    "japanese": "おっと！はい、それは私のものです。"
-  },
-  {
-    "id": 54,
-    "owner": "u1",
-    "english": "Thanks.",
-    "japanese": "ありがとう。"
-  },
-  {
-    "id": 55,
-    "owner": "u1",
-    "english": "Be careful with that.",
-    "japanese": "それについては気を付けてください。"
-  },
-  {
-    "id": 56,
-    "owner": "u1",
-    "english": "Wow. It's very crowded here.",
-    "japanese": "わあ。ここはとても混んでいます。"
-  },
-  {
-    "id": 57,
-    "owner": "u1",
-    "english": "Yes. Rakugo has a long history, and it's still popular today.",
-    "japanese": "はい。落語は長い歴史があって、今でも人気があります。"
-  },
-  {
-    "id": 58,
-    "owner": "u1",
-    "english": "How old is rakugo?",
-    "japanese": "落語はどれくらい歴史がありますか。"
-  },
-  {
-    "id": 59,
-    "owner": "u1",
-    "english": "Well, it's over 400 years old.",
-    "japanese": "ええと、それは400年を超える歴史があります。"
-  },
-  {
-    "id": 60,
-    "owner": "u1",
-    "english": "Rakugo is Japanese comic storytelling.",
-    "japanese": "落語は日本の滑稽な物語を話す話術です。"
+    "english": "Whisper words of wisdom, let it be.",
+    "japanese": "「あるがままに」と、そっと知恵の言葉をささやきます。"
   },
 
 
