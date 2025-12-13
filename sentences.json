@@ -2,62 +2,74 @@
    {
     "id": 1,
     "owner": "u1",
-    "english": "When I find myself in times of trouble, Mother Mary comes to me.",
-    "japanese": "苦しい時が訪れると、聖母マリアがそっと現れます。"
+    "english": "When I find myself in times of trouble,",
+    "japanese": "苦しい時が訪れると、"
   },
   {
     "id": 2,
     "owner": "u1",
-    "english": "Speaking words of wisdom, let it be.",
-    "japanese": "優しく「あるがままに」と語りかけてくれます。"
+    "english": "Mother Mary comes to me.",
+    "japanese": "聖母マリアがそっと現れます。"
   },
   {
     "id": 3,
     "owner": "u1",
-    "english": "And in my hour of darkness, she is standing right in front of me.",
-    "japanese": "闇に包まれたその時も、彼女は目の前に立っていてくれます。"
+    "english": "Speaking words of wisdom, let it be.",
+    "japanese": "優しく「あるがままに」と知恵の言葉を語りかけてくれます。"
   },
   {
     "id": 4,
     "owner": "u1",
-    "english": "And when the broken-hearted people living in the world agree, there will be an answer, let it be.",
-    "japanese": "傷ついた人々がこの世界で分かち合えたなら、きっと答えは見つかるさ──あるがままに。"
+    "english": "In my hour of darkness, she is standing right in front of me.",
+    "japanese": "闇に包まれたその時も、彼女は目の前に立っていてくれます。"
   },
   {
     "id": 5,
     "owner": "u1",
-    "english": "For though they may be parted, there is still a chance that they will see.",
-    "japanese": "たとえ離ればなれでも、また分かり合える日が来るチャンスは残っています。"
+    "english": "When the broken-hearted people in the world can share their pain,",
+    "japanese": "傷ついた人々がこの世界で気持ちを分かち合えたなら、"
   },
   {
     "id": 6,
     "owner": "u1",
     "english": "There will be an answer, let it be.",
-    "japanese": "答えは必ず見つかるさ。「あるがままに」と。"
+    "japanese": "きっと答えは見つかるさ──あるがままに。"
   },
   {
     "id": 7,
     "owner": "u1",
-    "english": "And when the night is cloudy, there is still a light that shines on me.",
-    "japanese": "夜がどんなに暗くても、それでも光は僕を照らしています。"
+    "english": "Even if they are apart, there is still a chance that they will see.",
+    "japanese": "たとえ離ればなれでも、また分かり合える日が来るチャンスは残っています。"
   },
   {
     "id": 8,
     "owner": "u1",
-    "english": "Shine until tomorrow, let it be.",
-    "japanese": "その光は明日へと導いてくれる──あるがままに。"
+    "english": "There will be an answer, let it be.",
+    "japanese": "答えは必ず見つかるさ。「あるがままに」と。"
   },
   {
     "id": 9,
+    "owner": "u1",
+    "english": "When the night is cloudy, there is still a light that shines on me.",
+    "japanese": "夜がどんなに暗くても、それでも光は僕を照らしています。"
+  },
+  {
+    "id": 10,
+    "owner": "u1",
+    "english": "That light shines until tomorrow, let it be.",
+    "japanese": "その光は明日へと導いてくれる──あるがままに。"
+  },
+  {
+    "id": 11,
     "owner": "u1",
     "english": "I wake up to the sound of music, Mother Mary comes to me.",
     "japanese": "音楽の響きで目覚めると、聖母マリアがそっと現れます。"
   },
   {
-    "id": 10,
+    "id": 12,
     "owner": "u1",
-    "english": "Whisper words of wisdom, let it be.",
-    "japanese": "「あるがままに」と、そっと知恵の言葉をささやきます。"
+    "english": "She whispers words of wisdom, let it be.",
+    "japanese": "彼女は「あるがままに」と、そっと知恵の言葉をささやきます。"
   },
 
 
