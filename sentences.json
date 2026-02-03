@@ -79,8 +79,6 @@
   { "id": 78, "owner": "u4", "english": "I hope this information will be useful for your research.", "japanese": "この情報があなたの研究に役立つことを願っています。" },
   { "id": 79, "owner": "u4", "english": "Environmental protection is one of the most urgent tasks.", "japanese": "環境保護は最も緊急の課題の一つです。" },
   { "id": 80, "owner": "u4", "english": "Experience is the best teacher when it comes to learning.", "japanese": "学習において、経験は最良の教師です。" },
-
-  /* Level 5: Junior High School 1st Year Basics (中学1年生レベル) */
   { "id": 81, "owner": "u5", "english": "I am a student at this school.", "japanese": "私はこの学校の生徒です。" },
   { "id": 82, "owner": "u5", "english": "You speak English very well.", "japanese": "あなたはとても上手に英語を話します。" },
   { "id": 83, "owner": "u5", "english": "He is my best friend.", "japanese": "彼は私の親友です。" },
