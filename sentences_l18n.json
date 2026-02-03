@@ -1,5 +1,4 @@
 [
-  /* owner: u1 (Level 1 - Basic) */
   {
     "id": 1,
     "owner": "u1",
@@ -340,8 +339,6 @@
       "pt-BR": "Até logo."
     }
   },
-
-  /* owner: u2 (Level 2 - Conversation) */
   {
     "id": 21,
     "owner": "u2",
@@ -577,7 +574,7 @@
       "ko": "역사를 배우는 것에 관심이 있어요.",
       "zh-Hans": "我对学习历史感兴趣。",
       "zh-Hant": "我對學習歷史感興趣。",
-      "pt-BR": "Estou interessado em aprender história."
+      "pt-BR": "Estou interessado em aprender historia."
     }
   },
   {
@@ -682,8 +679,6 @@
       "pt-BR": "Deixe-me verificar minha agenda."
     }
   },
-
-  /* owner: u3 (Level 3 - Detailed) */
   {
     "id": 41,
     "owner": "u3",
@@ -708,7 +703,7 @@
     "translations": {
       "en": "Could you tell me how to use this machine?",
       "ja": "この機械の使い方を教えていただけますか？",
-      "es": "¿Podría decirme cómo usar esta máquina?",
+      "es": "¿Podría explicarme cómo usar esta máquina?",
       "fr": "Pourriez-vous me dire comment utiliser cette machine ?",
       "de": "Könnten Sie mir sagen, wie man diese Maschine benutzt?",
       "it": "Potresti dirmi come usare questa macchina?",
@@ -882,7 +877,7 @@
       "fr": "J'ai réussi à finir le rapport à temps.",
       "de": "Ich habe es geschafft, den Bericht rechtzeitig fertigzustellen.",
       "it": "Sono riuscito a finire il rapporto in tempo.",
-      "ko": "겨우 제시간에 보고서를 끝냈어요.",
+      "ko": "겨우 제시간に 보고서를 끝냈어요.",
       "zh-Hans": "我设法按时完成了报告。",
       "zh-Hant": "我設法按時完成了報告。",
       "pt-BR": "Consegui terminar o relatório a tempo."
@@ -1024,8 +1019,6 @@
       "pt-BR": "Precisamos encontrar uma maneira de resolver este problema."
     }
   },
-
-  /* owner: u4 (Level 4 - Advanced) */
   {
     "id": 61,
     "owner": "u4",
@@ -1040,7 +1033,7 @@
       "ko": "정부는 이 문제에 대해 즉각 조치를 취해야 해요.",
       "zh-Hans": "政府应该立即对这个问题采取行动。",
       "zh-Hant": "政府應該立即對這個問題採取行動。",
-      "pt-BR": "O governo deveria tomar medidas imediatas sobre essa questão."
+      "pt-BR": "O governo deveria tomar medidas inmediatas sobre essa questão."
     }
   },
   {
@@ -1102,7 +1095,7 @@
       "en": "We need to consider the long term effects of this decision.",
       "ja": "私たちはこの決定の長期的な影響を考慮する必要があります。",
       "es": "Debemos considerar los efectos a largo plazo de esta decisión.",
-      "fr": "Nous devons considérer les effets à long terme de cette décision.",
+      "fr": "Nous devons considérer les effets à l'long terme de cette décision.",
       "de": "Wir müssen die langfristigen Auswirkungen dieser Entscheidung berücksichtigen.",
       "it": "Dobbiamo considerare gli effetti a lungo termine di questa decisione.",
       "ko": "우리는 이 결정의 장기적인 영향을 고려해야 해요.",
@@ -1366,8 +1359,6 @@
       "pt-BR": "A experiência é o melhor mestre quando se trata de aprender."
     }
   },
-
-  /* owner: u5 (Level 5 - JHS1) */
   {
     "id": 81,
     "owner": "u5",
@@ -1381,7 +1372,7 @@
       "it": "Sono uno studente di questa scuola.",
       "ko": "저는 이 학교 학생이에요.",
       "zh-Hans": "我是这所学校的学生。",
-      "zh-Hant": "我是這所學校的學生。",
+      "zh-Hant": "我是這所學校の學生。",
       "pt-BR": "Sou estudante desta escola."
     }
   },
@@ -1410,7 +1401,7 @@
       "en": "He is my best friend.",
       "ja": "彼は私の親友です。",
       "es": "Él es mi mejor amigo.",
-      "fr": "C'est mi meilleur ami.",
+      "fr": "C'est mon meilleur ami.",
       "de": "Er ist mein bester Freund.",
       "it": "È il mio migliore amico.",
       "ko": "그는 제 절친이에요.",
@@ -1671,7 +1662,7 @@
       "ko": "저는 재미있는 책을 읽고 있어요.",
       "zh-Hans": "我在看一本有趣的书。",
       "zh-Hant": "我在看一本有趣的小說。",
-      "pt-BR": "Estou lendo um livro engraçado."
+      "pt-BR": "Estou lendo um libro engraçado."
     }
   },
   {
